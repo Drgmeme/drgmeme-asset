@@ -1,0 +1,12 @@
+{
+    "name": "Dragon Meme",
+    "symbol": "DRGMEME",
+    "image": "https://github.com/Drgmeme/drgmeme-asset/blob/main/drgmemeicon.png",
+    "description": "Cute three head dragon meme",
+    "extensions": {
+        "website": "https://drgme.me",
+        "twitter": "https://twitter.com/SolanaGrumpyCat",
+        "telegram": "https://t.me/solanagrumpycat"
+    },
+    "tags": []
+}
